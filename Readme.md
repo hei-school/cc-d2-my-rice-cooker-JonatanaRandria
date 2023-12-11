@@ -39,10 +39,20 @@ The Rice Cooker App is a command-line application that emulates the functionalit
 
 ## Running the App
 
-1. Ensure you have PHP installed on your machine.
+1. Ensure you have the cli installed on your machine.
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing the PHP script.
-4. Run the script using the command: `php script_name.php`
+4. Run the script using the command:
+   - for php :
+      `php index.php`
+   - for c :
+     `gcc main.c -o main`
+     `main.exe`
+   - for ruby
+        `ruby main.rb`
+   - for go :
+        `go run main.go`
+
 
 ## Contributors
 
@@ -54,19 +64,19 @@ Feel free to customize the README file based on your project structure and addit
 
 - For implementation in **Ruby**:
 
-  [Go to Ruby implementation ]()
+  [Go to Ruby implementation ](https://github.com/hei-school/cc-d2-my-rice-cooker-JonatanaRandria/tree/feature/ruby)
 
 - For implementation in **Php**:
 
-  [Go to Php implementation ]()
+  [Go to Php implementation ](https://github.com/hei-school/cc-d2-my-rice-cooker-JonatanaRandria/tree/feature/php)
 
 - For implementation in **C**:
 
-  [Go to C implementation ]()
+  [Go to C implementation ](https://github.com/hei-school/cc-d2-my-rice-cooker-JonatanaRandria/tree/feature/c)
 
-- For implementation in **C++**:
+- For implementation in **GO**:
 
-  [Go to C++ implementation ]()
+  [Go to Go implementation ](https://github.com/hei-school/cc-d2-my-rice-cooker-JonatanaRandria/tree/feature/go)
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PHq8Kfj_)
